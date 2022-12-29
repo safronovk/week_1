@@ -54,7 +54,7 @@
 						</label>
 					</div>
 				</div>
-				<? }
+			<? }
 		} ?>
 
 		<div class="contact-form__bottom">
@@ -67,9 +67,4 @@
 		</div>
 	</form>
 </div>
-
 <? }
-
-//echo '<pre>';
-//print_r($arResult);
-//echo '<pre>';
